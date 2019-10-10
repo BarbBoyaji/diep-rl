@@ -1,0 +1,6 @@
+*.log
+*.h5
+.ipynb_checkpoints
+*.pyc
+__pycache__
+geckodriver

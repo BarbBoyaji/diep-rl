@@ -1,0 +1,19 @@
+{
+
+	"manifest_version": 2,
+	"name": "diep_injector",
+	"version": "1.0",
+  
+	"description": "Injects some lines in diep javascript script",
+  
+	"icons": {
+	  "96": "icons/favicon-96x96.png"
+	},
+	"permissions": [
+		"webRequest", "webRequestBlocking", "https://diep.io/*", "https://static.diep.io/*"
+	],
+  
+	"background": {
+		"scripts": ["diep_injector.js"]
+	}
+  }
