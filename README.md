@@ -1,6 +1,6 @@
 # diep-rl
 
-die-rl is a python reinforcement learning environment for [diep.io](https://diep.io/).
+diep-rl is a python reinforcement learning environment for [diep.io](https://diep.io/).
 
 **This is not a simulation**, so please use it gently!
 
